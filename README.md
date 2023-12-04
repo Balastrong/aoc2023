@@ -14,7 +14,7 @@
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](src/day01)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](src/day02)
 [![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](src/day03)
-![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](src/day04)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)
@@ -83,16 +83,16 @@ Both parts: 1.992ms
 
 ```
 Day 03
-Time part 1: 2.472ms
-Time part 2: 17.464ms
-Both parts: 19.937ms
+Time part 1: 2.466ms
+Time part 2: 2.359ms
+Both parts: 4.826ms
 ```
 
 ```
 Day 04
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 1.094ms
+Time part 2: 149.471ms
+Both parts: 150.565ms
 ```
 
 ```
@@ -243,8 +243,8 @@ Both parts: -
 ```
 
 ```
-Total stars: 6/50
-Total time: 25.034ms
+Total stars: 8/50
+Total time: 160.488ms
 ```
 
 <!--/RESULTS-->
